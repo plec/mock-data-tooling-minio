@@ -1,5 +1,7 @@
 # Mock data-tooling Minio
 
+> Ce repo est fourni à titre d'exemple afin de simuler un service S3. Ce repo n'est pas une offre de service CPiN, il permet de gagner du temps pour la mise en place d'un service S3 mais est à adapter par les équipes de dev aux besoins projet.
+
 Minio servant de mock S3 pour le projet mock data-tooling
 
 Afin d'avoir un certificat valide, les ingress doivent être un sous le domaine *.apps.app1.numerique-interieur.com

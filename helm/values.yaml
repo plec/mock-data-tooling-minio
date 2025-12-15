@@ -5,6 +5,8 @@ minio:
   fullnameOverride: "minio"
   enabled: true
   defaultBuckets: "app,logs,database"
+  image:
+    repository: bitnamilegacy/minio
   auth:
     existingSecret: minio-root
   ingress:
